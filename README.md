@@ -1,7 +1,7 @@
 - Hi there 👋
 - I'm Yauhen.
 - I'm from Belarus.
--Currently looking for work as a Front-end Developer.
+- Currently looking for work as a Front-end Developer.
 
 
 <details>
