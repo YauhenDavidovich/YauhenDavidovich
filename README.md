@@ -2,10 +2,9 @@
 - I'm Yauhen Davidovich.
 - I'm a Software Engineer with a strong desire to build a successful
 career in commercial software development as a Front-end developer.
-I have experience in creating SPA applications using React, Redux,
+I have experience in creating SPA applications using NextJS, GraphQL, React, Redux,
 ES6+, HTML, CSS. Able to effectively self-manage during independent
 projects, as well as collaborate in a team setting.
-- Currently looking for work as a Front-end Developer.
 
 
 <details>
