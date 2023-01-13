@@ -25,14 +25,6 @@ Languages and Tools🛠:
 
 ### Github Activity ✔:
 
-<a href="https://github.com/Davekibh">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yauhendavidovich&theme=tokyonight" />
-  </a>
-
-<a href="https://github.com/yauhendavidovich">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=yauhendavidovich&show_icons=true&theme=tokyonight&line_height=27" alt="Yauhen's github stats"/>
-</a>
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yauhendavidovich&repo=github-readme-stats" />
 </a>
