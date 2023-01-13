@@ -33,6 +33,13 @@ Languages and Tools🛠:
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yauhendavidovich&show_icons=true&theme=tokyonight&line_height=27" alt="Yauhen's github stats"/>
 </a>
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yauhendavidovich&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yauhendavidovich&repo=convoychat" />
+</a>
+
 <br/>
 <br/>
 <br/>
